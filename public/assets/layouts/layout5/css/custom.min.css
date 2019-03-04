@@ -1,0 +1,16 @@
+.form-inline{display: inline-block !important;}
+.alert-wrapper{
+    position: absolute;
+    z-index: 999999999999999;
+    right: 75px;
+    top: 90px;
+}
+.alert-success {
+    background-color: #26c22b;
+    border-color: #1c9c20;
+    color: #fff;
+}
+.btn{margin-bottom: 5px;}
+.display-block{display: block !important;}
+.form-control[readonly]{background-color: #fff;}
+.search-list-group{max-height: 300px; overflow-x: hidden;overflow-y: auto;}
